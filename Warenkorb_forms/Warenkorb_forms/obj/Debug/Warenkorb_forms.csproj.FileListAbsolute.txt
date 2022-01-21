@@ -1,0 +1,12 @@
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.csproj.AssemblyReference.cache
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.AddProduct_Form.resources
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.Properties.Resources.resources
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.Form1.resources
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.csproj.GenerateResource.cache
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.csproj.CoreCompileInputs.cache
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\bin\Debug\Warenkorb_forms.exe.config
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\bin\Debug\Warenkorb_forms.exe
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\bin\Debug\Warenkorb_forms.pdb
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.exe
+C:\Users\JanisMurpf\source\repos\Warenkorb_forms\Warenkorb_forms\obj\Debug\Warenkorb_forms.pdb

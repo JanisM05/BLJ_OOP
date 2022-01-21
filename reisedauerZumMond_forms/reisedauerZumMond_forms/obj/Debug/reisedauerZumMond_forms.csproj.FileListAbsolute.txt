@@ -1,0 +1,11 @@
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\bin\Debug\reisedauerZumMond_forms.exe.config
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\bin\Debug\reisedauerZumMond_forms.exe
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\bin\Debug\reisedauerZumMond_forms.pdb
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\obj\Debug\reisedauerZumMond_forms.csproj.AssemblyReference.cache
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\obj\Debug\reisedauerZumMond_forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\obj\Debug\reisedauerZumMond_forms.Form1.resources
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\obj\Debug\reisedauerZumMond_forms.Properties.Resources.resources
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\obj\Debug\reisedauerZumMond_forms.csproj.GenerateResource.cache
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\obj\Debug\reisedauerZumMond_forms.csproj.CoreCompileInputs.cache
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\obj\Debug\reisedauerZumMond_forms.exe
+C:\Users\JanisMurpf\source\repos\reisedauerZumMond_forms\reisedauerZumMond_forms\obj\Debug\reisedauerZumMond_forms.pdb

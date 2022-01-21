@@ -1,0 +1,11 @@
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\bin\Debug\Tannenbaum_forms.exe.config
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\bin\Debug\Tannenbaum_forms.exe
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\bin\Debug\Tannenbaum_forms.pdb
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\obj\Debug\Tannenbaum_forms.csproj.AssemblyReference.cache
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\obj\Debug\Tannenbaum_forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\obj\Debug\Tannenbaum_forms.txt_tannenbaum.resources
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\obj\Debug\Tannenbaum_forms.Properties.Resources.resources
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\obj\Debug\Tannenbaum_forms.csproj.GenerateResource.cache
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\obj\Debug\Tannenbaum_forms.csproj.CoreCompileInputs.cache
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\obj\Debug\Tannenbaum_forms.exe
+C:\Users\JanisMurpf\source\repos\Tannenbaum_forms\Tannenbaum_forms\obj\Debug\Tannenbaum_forms.pdb
