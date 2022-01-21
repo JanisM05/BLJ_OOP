@@ -1,0 +1,24 @@
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\bin\Debug\Einkaufswagen.exe.config
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\bin\Debug\Einkaufswagen.exe
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\bin\Debug\Einkaufswagen.pdb
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.csproj.AssemblyReference.cache
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.Form1.resources
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.Form2.resources
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.Properties.Resources.resources
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.csproj.GenerateResource.cache
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.csproj.CoreCompileInputs.cache
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.exe
+C:\Users\Andrin\Documents\C SHARP\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.pdb
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\bin\Debug\Einkaufswagen.exe.config
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\bin\Debug\Einkaufswagen.exe
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\bin\Debug\Einkaufswagen.pdb
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.csproj.AssemblyReference.cache
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.AddProductForm.resources
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.Properties.Resources.resources
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.csproj.GenerateResource.cache
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.csproj.CoreCompileInputs.cache
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.exe
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.pdb
+C:\Users\JanisMurpf\Downloads\OOP-main\OOP-main\Einkaufswagen\Einkaufswagen\obj\Debug\Einkaufswagen.ShoppingCartForm.resources
