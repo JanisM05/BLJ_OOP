@@ -125,5 +125,19 @@ namespace Auto_Simulator_form
                 gear = 6;
             }
         }
+
+        public void Honk()
+        {
+            Console.WriteLine(System.IO.Path.GetFullPath("../../../honk.wav"));
+            System.Media.SoundPlayer player = new System.Media.SoundPlayer(System.IO.Path.GetFullPath("../../../honk.wav"));
+            player.Play();
+        }
+
+        public void EngineSound()
+        {
+            Console.WriteLine(System.IO.Path.GetFullPath("../../../engine.wav"));
+            System.Media.SoundPlayer player = new System.Media.SoundPlayer(System.IO.Path.GetFullPath("../../../engine.wav"));
+            player.Play();
+        }
     }
 }

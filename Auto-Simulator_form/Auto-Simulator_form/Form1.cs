@@ -47,19 +47,23 @@ namespace Auto_Simulator_form
 
         private void lbl_status_Click(object sender, EventArgs e)
         {
-            if (lbl_status.Text == "ON")
+            if (this.auto != null)
             {
-                lbl_status.Text = "OFF";
-                auto.StartEngine();
-                lbl_ShowSpeed.Text = auto.Speed.ToString();
-                lbl_ShowGear.Text= auto.Gear.ToString();
-            }
-            else
-            {
-                lbl_status.Text = "ON";
-                auto.StopEngine();
-                lbl_ShowSpeed.Text = auto.Speed.ToString();
-                lbl_ShowGear.Text = auto.Gear.ToString();
+                if (lbl_status.Text == "ON")
+                {
+                    lbl_status.Text = "OFF";
+                    auto.StartEngine();
+                    lbl_ShowSpeed.Text = auto.Speed.ToString();
+                    lbl_ShowGear.Text = auto.Gear.ToString();
+                    auto.EngineSound();
+                }
+                else
+                {
+                    lbl_status.Text = "ON";
+                    auto.StopEngine();
+                    lbl_ShowSpeed.Text = auto.Speed.ToString();
+                    lbl_ShowGear.Text = auto.Gear.ToString();
+                }
             }
         }
 
@@ -81,7 +85,10 @@ namespace Auto_Simulator_form
             if (this.auto != null)
             {
                 auto.Accelerate();
-                auto.SetGear();
+                if (auto.Status == 1)
+                {
+                    auto.SetGear();
+                }
                 lbl_ShowSpeed.Text = auto.Speed.ToString();
                 btn_Gas.Visible = false;
                 btn_Gas.Visible = true;
@@ -94,11 +101,22 @@ namespace Auto_Simulator_form
             if (this.auto != null)
             {
                 auto.Brake();
-                auto.SetGear();
+                if (auto.Status == 1)
+                {
+                    auto.SetGear();
+                }
                 lbl_ShowSpeed.Text = auto.Speed.ToString();
                 btn_Brake.Visible = false;
                 btn_Brake.Visible = true;
                 lbl_ShowGear.Text = auto.Gear.ToString();
+            }
+        }
+
+        private void btn_honk_Click(object sender, EventArgs e)
+        {
+            if (auto != null && auto.Status == 1)
+            {
+                auto.Honk();
             }
         }
     }
