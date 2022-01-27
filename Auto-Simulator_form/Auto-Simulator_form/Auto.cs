@@ -59,38 +59,6 @@ namespace Auto_Simulator_form
                 if (speed < ((CarHP / 3) + 100))
                 {
                     speed += (carHP / 200);
-                    if (speed != 6)
-                    {
-                        if (speed > 0)
-                        {
-                            gear = 1;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 1))
-                        {
-                            gear = 2;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 2))
-                        {
-                            gear = 3;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 3))
-                        {
-                            gear = 4;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 4))
-                        {
-                            gear = 5;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 5))
-                        {
-                            gear = 6;
-                        }
-                    }
                 }
             }
         }
@@ -106,43 +74,56 @@ namespace Auto_Simulator_form
                     {
                         speed = 0;
                     }
-
-                        if (speed > 0)
-                        {
-                            gear = 1;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 1))
-                        {
-                            gear = 2;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 2))
-                        {
-                            gear = 3;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 3))
-                        {
-                            gear = 4;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 4))
-                        {
-                            gear = 5;
-                        }
-
-                        if (speed > (((CarHP / 3) + 100) / 7 * 5))
-                        {
-                            gear = 6;
-                        }
                 }
             }
         }
 
         public void StartEngine()
         {
+            status = 1;
+            gear = 1;
+        }
 
+
+        public void StopEngine()
+        {
+            status = 0;
+            gear = 0;
+            speed = 0;
+        }
+
+        public void SetGear()
+        {
+
+            if (speed >= 0)
+            {
+                gear = 1;
+            }
+
+            if (speed > (((CarHP / 3) + 100) / 7 * 1))
+            {
+                gear = 2;
+            }
+
+            if (speed > (((CarHP / 3) + 100) / 7 * 2))
+            {
+                gear = 3;
+            }
+
+            if (speed > (((CarHP / 3) + 100) / 7 * 3))
+            {
+                gear = 4;
+            }
+
+            if (speed > (((CarHP / 3) + 100) / 7 * 4))
+            {
+                gear = 5;
+            }
+
+            if (speed > (((CarHP / 3) + 100) / 7 * 5))
+            {
+                gear = 6;
+            }
         }
     }
 }

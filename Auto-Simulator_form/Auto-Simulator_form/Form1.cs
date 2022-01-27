@@ -39,8 +39,8 @@ namespace Auto_Simulator_form
             }
             if (auto.Status == 0)
             {
-                lbl_status.Text = "ON";
-            }
+                lbl_status.Text = "ON";            }
+
             lbl_ShowSpeed.Text = auto.Speed.ToString();
             lbl_ShowGear.Text = auto.Gear.ToString();
         }
@@ -50,15 +50,16 @@ namespace Auto_Simulator_form
             if (lbl_status.Text == "ON")
             {
                 lbl_status.Text = "OFF";
-                auto.Status = 1;
+                auto.StartEngine();
+                lbl_ShowSpeed.Text = auto.Speed.ToString();
+                lbl_ShowGear.Text= auto.Gear.ToString();
             }
             else
             {
                 lbl_status.Text = "ON";
-                auto.Status = 0;
-                auto.Speed = 0;
-                auto.Gear = 0;
-                lbl_ShowSpeed.Text = Convert.ToString(0);
+                auto.StopEngine();
+                lbl_ShowSpeed.Text = auto.Speed.ToString();
+                lbl_ShowGear.Text = auto.Gear.ToString();
             }
         }
 
@@ -80,6 +81,7 @@ namespace Auto_Simulator_form
             if (this.auto != null)
             {
                 auto.Accelerate();
+                auto.SetGear();
                 lbl_ShowSpeed.Text = auto.Speed.ToString();
                 btn_Gas.Visible = false;
                 btn_Gas.Visible = true;
@@ -92,6 +94,7 @@ namespace Auto_Simulator_form
             if (this.auto != null)
             {
                 auto.Brake();
+                auto.SetGear();
                 lbl_ShowSpeed.Text = auto.Speed.ToString();
                 btn_Brake.Visible = false;
                 btn_Brake.Visible = true;
